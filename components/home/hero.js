@@ -1,4 +1,4 @@
-import Animation from "../animation"
+import Animation from "./animation"
 import Link from 'next/link';
 
 export default function Hero() {
